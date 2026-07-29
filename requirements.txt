@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+pennylane
+streamlit
+requests
+plotly
+matplotlib
+numpy
+pandas
+joblib
+scikit-learn
